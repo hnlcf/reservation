@@ -1,0 +1,2 @@
+[workspace]
+members = ["resv_abi", "resv_core", "resv_service"]
