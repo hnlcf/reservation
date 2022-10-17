@@ -214,7 +214,10 @@ N/A
 
 ## Unresolved questions
 
-N/A
+- how to handle repeated reservations?
+- if load is big, we may use an external queue for recording changes.
+- we haven't considered observability/deployment yet.
+- query performance might be an issue - need to revisit the index and also consider using cache.
 
 ## Future possibilities
 
