@@ -1,0 +1,2 @@
+DROP SCHEMA resv CASCADE;
+DROP EXTENSION btree_gist;
